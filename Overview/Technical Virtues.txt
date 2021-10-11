@@ -1,0 +1,2 @@
+*Fairly colorful and intuitive GUI with small animation tweaks.
+*With good implementation of synchronization in focus.
